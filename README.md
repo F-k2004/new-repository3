@@ -1,5 +1,5 @@
 # project_info.py
-import atetime
+import datetime
 
 def project_info():
     print("📂 پروژه‌ی من روی GitHub")
